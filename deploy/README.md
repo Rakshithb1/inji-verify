@@ -13,6 +13,7 @@
   * Note: Before running the Postgres install script, update the `POSTGRES_HOST` value in `install.sh` with the correct PostgreSQL host.
 
 ## Pre-requisites
+* inji-stack-config configmap [steps](https://docs.inji.io/readme/setup/deploy#pre-requisites)
 * Postgres installation [steps](https://github.com/mosip/mosip-infra/tree/v1.2.0.2/deployment/v3/external/postgres) 
 
 ## Initialise pre-requisites
